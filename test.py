@@ -7,4 +7,5 @@ s=5
 kcal=10*waga+6.25*wzrost*100-5*wiek+s
 print("\n\nTwoje BMI wynosi:",BMI,"(\n")
 print("Twoje zapotrzebowanie kaloryczne wynosi:",kcal,"kcal\n")
+print("Tyle na dzisiaj")
 
